@@ -42,6 +42,3 @@ If you are experiencing any of the symptoms of MF, it is important to see a doct
 4. [Leukemia & Lymphoma Society](http://www.LLS.org)
 5. [National Bone Marrow Transplant Link](http://www.nbmtlink.org)
 6. [National Cancer Institute](http://www.cancer.gov)
-7. [Rare Cancer Alliance](http://www.rare-cancer.org)
-
-
