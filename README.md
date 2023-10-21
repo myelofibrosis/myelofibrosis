@@ -6,7 +6,7 @@ MF is a myeloproliferative neoplasm (MPN), which means that it is caused by the 
 
 MF can develop on its own (primary MF), or it can develop from another bone marrow disorder, such as polycythemia vera or essential thrombocythemia (secondary MF).
 
-## Symptoms of myelofibrosis
+## Symptoms of Myelofibrosis
 
 The symptoms of MF can vary depending on the stage of the disease. In the early stages, many people do not experience any symptoms. As the disease progresses, symptoms may include:
 
@@ -24,7 +24,7 @@ The symptoms of MF can vary depending on the stage of the disease. In the early 
 
 The exact cause of MF is unknown. However, it is thought to be caused by a combination of genetic and environmental factors.
 
-## Treatment for myelofibrosis
+## Treatment for Myelofibrosis
 
 There is no cure for MF, but there are treatments that can help to manage the symptoms and slow the progression of the disease. Treatment options include:
 
