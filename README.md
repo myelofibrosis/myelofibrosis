@@ -19,8 +19,7 @@ The symptoms of MF can vary depending on the stage of the disease. In the early 
 7. Night sweats
 8. Fever
 9. Pruritus (itching)
-![ZSL_London_-_Sumatran_tiger_13](https://github.com/myelofibrosis/myelofibrosis/assets/121721444/527f3158-824c-465a-a33c-8b016ae6c2b2)
-
+    
 ## Causes of myelofibrosis
 
 The exact cause of MF is unknown. However, it is thought to be caused by a combination of genetic and environmental factors.
