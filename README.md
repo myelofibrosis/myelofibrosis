@@ -1,4 +1,4 @@
-#Myelofibrosis
+# Myelofibrosis
 
 Myelofibrosis (MF) is a rare type of blood cancer that affects the bone marrow. It is a type of chronic leukemia, which means that it progresses slowly over time. MF causes scar tissue to form in the bone marrow, making it difficult for the body to produce enough healthy blood cells.
 
