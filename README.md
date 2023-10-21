@@ -34,3 +34,8 @@ There are a number of medications that can be used to treat MF, including JAK in
 A stem cell transplant is a procedure that replaces the diseased bone marrow with healthy stem cells. This is a curative treatment for MF, but it is only recommended for people who are younger and have a good chance of success.
 
 If you are experiencing any of the symptoms of MF, it is important to see a doctor right away. Early diagnosis and treatment can help to improve the prognosis of the disease.
+
+## Supporting Organizations
+[American Cancer Society, Inc.](http://www.cancer.org)
+
+
