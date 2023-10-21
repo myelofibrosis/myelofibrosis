@@ -36,12 +36,12 @@ A stem cell transplant is a procedure that replaces the diseased bone marrow wit
 If you are experiencing any of the symptoms of MF, it is important to see a doctor right away. Early diagnosis and treatment can help to improve the prognosis of the disease.
 
 ## Supporting Organizations
-[American Cancer Society, Inc.](http://www.cancer.org)
-[Center for International Blood and Marrow Transplant Research](http://www.cibmtr.org/)
-[Genetic and Rare Diseases (GARD) Information Center](http://rarediseases.info.nih.gov/GARD/)
-[Leukemia & Lymphoma Society](http://www.LLS.org)
-[National Bone Marrow Transplant Link](http://www.nbmtlink.org)
-[National Cancer Institute](http://www.cancer.gov)
-[Rare Cancer Alliance](http://www.rare-cancer.org)
+1. [American Cancer Society, Inc.](http://www.cancer.org)
+2. [Center for International Blood and Marrow Transplant Research](http://www.cibmtr.org/)
+3. [Genetic and Rare Diseases (GARD) Information Center](http://rarediseases.info.nih.gov/GARD/)
+4. [Leukemia & Lymphoma Society](http://www.LLS.org)
+5. [National Bone Marrow Transplant Link](http://www.nbmtlink.org)
+6. [National Cancer Institute](http://www.cancer.gov)
+7. [Rare Cancer Alliance](http://www.rare-cancer.org)
 
 
